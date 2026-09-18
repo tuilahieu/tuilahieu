@@ -1,10 +1,10 @@
 <div align="center">
   <!-- Waving Header Banner Dracula Gradient -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=282a36,44475a,6272a4,bd93f9,ff79c6&height=190&section=header&text=Hieu%20Tran&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fresher%20Backend%20Developer&descAlignY=58&descSize=20" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=282a36,44475a,6272a4,bd93f9,ff79c6&height=190&section=header&text=Hieu%20Tran&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%20Backend%20Developer&descAlignY=58&descSize=20" width="100%" alt="Header Banner" />
 
   <!-- Animated Typing Effect -->
   <a href="https://github.com/tuilahieu">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=550&lines=Hi%2C+My+name+is+Hi%E1%BB%83u+%F0%9F%91%8B;Fresher+Backend+Developer+%E2%9A%99%EF%B8%8F;Building+Scalable+%26+Secure+APIs+%F0%9F%9A%80;Node.js+%E2%80%A2+Express+%E2%80%A2+PHP+%E2%80%A2+Laravel;Continuous+Learning+%26+Coding+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=550&lines=Hi%2C+My+name+is+Hi%E1%BB%83u+%F0%9F%91%8B;+Backend+Developer+%E2%9A%99%EF%B8%8F;Building+Scalable+%26+Secure+APIs+%F0%9F%9A%80;Node.js+%E2%80%A2+Express+%E2%80%A2+PHP+%E2%80%A2+Laravel;Continuous+Learning+%26+Coding+%E2%9C%A8" alt="Typing SVG" />
   </a>
 
   <!-- Badges Status -->
@@ -27,7 +27,7 @@
 - 🤖 Using Codex & Antigravity to support learning, debugging and development
 - 🌱 Currently interested in learning Node.js / NestJS and expanding my backend skills
 - 🧠 Interested in Web development, system design and Tool Automation
-- 💼 Open to **Fresher Backend Developer** opportunities
+- 💼 Open to ** Backend Developer** opportunities
 
 ---
 
